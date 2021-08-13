@@ -3,7 +3,7 @@ d = rand(1..10)
 Answer = 0
 Attempts = 0
 
-while liczba != d
+while d != d
 system "cls"
 system title You guess :#{Attempts} times
 Attempts += 1
